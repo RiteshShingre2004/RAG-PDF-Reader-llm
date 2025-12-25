@@ -1,0 +1,5 @@
+rag-pdf-reader/
+├── app.py
+├── rag_pipeline.py
+├── requirements.txt
+├── README.md
