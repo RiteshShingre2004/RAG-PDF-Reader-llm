@@ -37,6 +37,6 @@ Tech Stack
 - **PyPDF** for PDF parsing
 
 #LICENSE
-This project is licensced under MIT License
+This project is licensced under MIT Licensesss
 
 
